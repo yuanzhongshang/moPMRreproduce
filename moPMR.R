@@ -1,4 +1,4 @@
-library(moPMR)
+library(PMR)
 library(LaplacesDemon)
 
 #load the scaled genenotype matrix in eQTL data (e.g. cis-SNPs of LIN9 gene from GEUVADIS data)
